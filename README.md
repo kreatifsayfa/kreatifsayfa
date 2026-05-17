@@ -1,28 +1,31 @@
-## 👋 Merhaba! Ben @kreatifsayfa
+# Merhaba, ben @kreatifsayfa 👋
 
-🚀 Dijital dünyada kreatif çözümler sunan bir tasarımcı ve geliştiriciyim. Web tasarımı, dijital pazarlama ve otomasyon sistemleri üzerine çalışıyorum.
+Web tasarımı ve otomasyon sistemleri üzerine çalışıyorum — işlerin *gerçekten* çalışmasını seviyorum. Piksel mükemmeliyetçisiyim, otomasyon tutkunu ve sürekli bir şeyler öğrenen biriyim.
 
-### 👀 İlgi Alanlarım:
-- Web & UI/UX Tasarımı  
-- Otomasyon (n8n, Zapier, Make)  
-- WordPress & E-Ticaret Entegrasyonları  
-- Yapay Zeka ile Üretkenlik Uygulamaları  
-- Pazaryeri Yönetimi ve Otomasyonu
-- ADS Yönetimi
+---
 
-### 🌱 Şu anda Öğrendiğim Konular:
-- Yapay Zekâ Destekli Chatbot Uygulamaları  
-- Headless CMS sistemleri ve Next.js entegrasyonu  
-- Google Ads & Meta Ads gelişmiş stratejiler  
+### Araçlar & Teknolojiler
 
-### 💼 İş Birliği Fırsatları:
-- Dijital projelerinizi hayata geçirebilirim  
-- Otomasyon çözümleri ile zaman kazandırabilirim  
-- Web sitenizi modern ve dönüşüm odaklı hâle getirebilirim  
+`WordPress` `Next.js` `n8n` `Zapier` `Make` `Chatbot / AI` `Google Ads` `Meta Ads` `E-Ticaret` `Headless CMS`
 
-### 📫 Bana Ulaşmak İçin:
-📧 kreatifsayfa@gmail.com  
+---
 
+### Neler yapıyorum
 
-> 🎯 GitHub profilim, devam eden projelerim ve açık kaynak katkılarım için bir vitrin. İnceleyin, yıldız verin ⭐ veya bir "issue" açarak iletişime geçin!
+Dönüşüm odaklı web siteleri tasarlıyor, manuel iş akışlarını otomasyona dönüştürüyor ve pazaryerlerini tek merkezden yönetilir hale getiriyorum. Yapay zeka araçlarını üretkenlik süreçlerine entegre etmek son dönemde en çok üzerine çalıştığım alan.
 
+> Bir projenin başarısı ne kadar iyi göründüğünden değil, ne kadar iyi çalıştığından ölçülür.
+
+---
+
+### Şu an öğreniyorum
+
+- AI destekli chatbot uygulamaları
+- Next.js + Headless CMS entegrasyonu
+- Google Ads & Meta Ads gelişmiş stratejiler
+
+---
+
+### İletişim
+
+📧 kreatifsayfa@gmail.com — Proje fikriniz mi var? Bir issue açın ya da direkt yazın.
