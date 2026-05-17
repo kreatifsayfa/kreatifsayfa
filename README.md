@@ -1,31 +1,38 @@
-# Merhaba, ben @kreatifsayfa 👋
+# Merhaba, ben Kreatifsayfa 👋
 
-Web tasarımı ve otomasyon sistemleri üzerine çalışıyorum — işlerin *gerçekten* çalışmasını seviyorum. Piksel mükemmeliyetçisiyim, otomasyon tutkunu ve sürekli bir şeyler öğrenen biriyim.
-
----
-
-### Araçlar & Teknolojiler
-
-`WordPress` `Next.js` `n8n` `Zapier` `Make` `Chatbot / AI` `Google Ads` `Meta Ads` `E-Ticaret` `Headless CMS`
+Web, otomasyon ve backend sistemleri üzerine çalışıyorum.  
+Tasarımdan deploy'a kadar işin her katmanına girmeyi seviyorum.
 
 ---
 
-### Neler yapıyorum
+## Projeler
 
-Dönüşüm odaklı web siteleri tasarlıyor, manuel iş akışlarını otomasyona dönüştürüyor ve pazaryerlerini tek merkezden yönetilir hale getiriyorum. Yapay zeka araçlarını üretkenlik süreçlerine entegre etmek son dönemde en çok üzerine çalıştığım alan.
+### 🎬 [Advanced Fire HLS Player](https://github.com/kreatifsayfa/HlsPlayer)
+Çoklu ses (dublaj), çoklu çözünürlük, CDN desteği ve gelişmiş güvenlik katmanlarına sahip tam teşekküllü HLS video streaming sistemi. YouTube, Vimeo, Google Drive ve ok.ru kaynak desteği, VAST reklam entegrasyonu, admin paneli ve RESTful API içeriyor.
 
-> Bir projenin başarısı ne kadar iyi göründüğünden değil, ne kadar iyi çalıştığından ölçülür.
-
----
-
-### Şu an öğreniyorum
-
-- AI destekli chatbot uygulamaları
-- Next.js + Headless CMS entegrasyonu
-- Google Ads & Meta Ads gelişmiş stratejiler
+`PHP` `FFmpeg` `MySQL` `HLS` `Cloudflare CDN` `VAST`
 
 ---
 
-### İletişim
+### 📊 [Iddia Arbitrage Scanner](https://github.com/kreatifsayfa/iddiaarb)
+Birden fazla bahis kaynağını (Flashscore, BetExplorer, SofaScore vb.) tarayarak arbitraj fırsatlarını tespit eden sistem. Python CLI ve Cloudflare Workers/Pages üzerinde serverless olarak çalışıyor.
 
-📧 kreatifsayfa@gmail.com — Proje fikriniz mi var? Bir issue açın ya da direkt yazın.
+`Python` `Cloudflare Workers` `JavaScript` `Docker` `Serverless`
+
+---
+
+## Ne yapıyorum
+
+- Dönüşüm odaklı web siteleri ve e-ticaret sistemleri
+- n8n / Zapier / Make ile iş akışı otomasyonu
+- WordPress, Next.js ve Headless CMS entegrasyonları
+- Google Ads & Meta Ads yönetimi
+- AI destekli chatbot ve üretkenlik araçları
+
+---
+
+## İletişim
+
+📧 kreatifsayfa@gmail.com
+
+Proje fikriniz mi var, ya da bir sistemin otomasyonunu mu düşünüyorsunuz? Doğrudan yazın.
